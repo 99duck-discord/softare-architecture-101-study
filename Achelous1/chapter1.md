@@ -61,7 +61,7 @@
   * 해당 책에서는 소프트웨어 아키텍처를 바라보는 한 시각은 소프트웨어 아키텍처는 `아키텍처 특성`, `아키텍처 결정`, `설계 원칙`과 `시스템의 구조`로 구성된다고 얘기한다.
 * 아키텍처에서의 구조란 무엇인가?
   * 아키텍처 스타일의 `종류`이다.
-    * Micro Service Architecture, Layered Architecture, [Microkernel](https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%BB%A4%EB%84%90#:~:text=%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%BB%A4%EB%84%90(microkernel)%EC%9D%80%20%EC%BB%B4%ED%93%A8%ED%84%B0,(IPC)%EC%9D%84%20%ED%8F%AC%ED%95%A8%ED%95%9C%EB%8B%A4.)과 같은
+    * Micro Service Architecture, Layered Architecture, [Microkernel](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch03.html)과 같은
 * 아키텍처 특성이란 무엇인가?
   * 시스템의 기능에 직교하여 성공 기준을 결정한다.
     * 시스템이 올바르게 작동하기 위해 지원해야 하는 `~성`들을 포함한다(그림 1-4)

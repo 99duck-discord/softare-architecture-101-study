@@ -4,7 +4,7 @@
   <img src="./thumbnail.jpeg" alt="Fundamentals of Software Architecture" width="300">
 </div>
 
-> "아키텍트에게는 기술의 깊이보다 폭이 더 중요하다"
+[명언 모음집](./quotes.md)
 
 ## 🚧 규칙
 
@@ -28,6 +28,6 @@
 
 <div align="center">
 
-<sub><sup>Written by <a href="https://github.com/bugoverdose">@Jeong Jinwoo</a></sup></sub><small>🍕</small>
+<sub><sup>Written by <a href="https://github.com/bugoverdose">@Jeong Jinwoo</a></sup></sub><small>🔨</small>
 
 </div>

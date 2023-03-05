@@ -4,6 +4,7 @@
 * [명언 모음집](quotes.md)
 * [SQ3R Template](template.md)
 * [Achelous1](achelous1/README.md)
+  * [친슈의 SQ3R](achelous1/readme.md.md)
   * [1장 서론](achelous1/chapter1.md)
   * [2장 아키텍처 사고](achelous1/chapter2.md)
   * [3장 모듈성](achelous1/chapter3.md)
